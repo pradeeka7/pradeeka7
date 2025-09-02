@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer and a technical writer. I have written 10 technical books.
+I am a software engineer and a technical writer.
